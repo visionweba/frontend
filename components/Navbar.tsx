@@ -27,11 +27,11 @@ export default function Navbar() {
             <Zap size={18} strokeWidth={2.5} />
           </span>
           <span className="font-[family-name:var(--font-display)] text-xl font-extrabold tracking-tight text-[#14141f]">
-            Voltique
+         visionedgebusniess
           </span>
         </Link>
 
-        <form onSubmit={handleSearch} className="relative hidden flex-1 max-w-xl sm:block">
+        <form onSubmit={handleSearch} className="relative hidden flex-1 max-w-xl lg:block">
           <Search className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
           <input
             value={query}
@@ -93,7 +93,7 @@ export default function Navbar() {
           </Link>
         </div>
       </div>
-      <form onSubmit={handleSearch} className="relative block px-4 pb-3 sm:hidden">
+      <form onSubmit={handleSearch} className="relative block px-4 pb-3 lg:hidden">
         <Search className="pointer-events-none absolute left-7 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
         <input
           value={query}
