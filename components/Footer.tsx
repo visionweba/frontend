@@ -10,7 +10,7 @@ export default function Footer() {
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-[#4338CA] text-white">
               <Zap size={18} />
             </span>
-            <span className="font-[family-name:var(--font-display)] text-lg font-extrabold">Voltique</span>
+            <span className="font-[family-name:var(--font-display)] text-lg font-extrabold">VISION</span>
           </div>
           <p className="mt-3 text-sm text-[#6b7280]">
             Your trusted destination for the latest mobiles, laptops, audio and smart gadgets.
