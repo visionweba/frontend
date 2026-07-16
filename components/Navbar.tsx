@@ -27,7 +27,7 @@ export default function Navbar() {
             <Zap size={18} strokeWidth={2.5} />
           </span>
           <span className="font-[family-name:var(--font-display)] text-xl font-extrabold tracking-tight text-[#14141f]">
-         visionedgebusniess
+           VISION
           </span>
         </Link>
 

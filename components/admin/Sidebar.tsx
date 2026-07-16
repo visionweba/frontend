@@ -38,7 +38,7 @@ export default function Sidebar() {
           <Zap size={18} />
         </span>
         <div>
-          <p className="font-[family-name:var(--font-display)] text-base font-bold">visionedgebusniess</p>
+          <p className="font-[family-name:var(--font-display)] text-base font-bold">VISION</p>
           <p className="text-xs text-[#8b92a6]">Admin Panel</p>
         </div>
       </div>
